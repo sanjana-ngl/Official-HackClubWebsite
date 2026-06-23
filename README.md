@@ -219,3 +219,30 @@ The leaderboard ranks are calculated dynamically in the UI based on the constant
 - **Project Rating Score** (70% weight)
 - **Contribution Score** (20% weight)
 - **Event Score** (10% weight)
+
+My contribution:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/91b9f352-87d9-41a3-9036-c99c1f138dad" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6cb517fc-8e76-44b3-97b8-61f73c7e9b80" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/46162307-c638-4b5b-bda5-d46cead36909" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d168ea37-f56e-49ea-a7dd-214a1a3968d4" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4e5f2519-6789-4199-918a-b6fe853f1f72" />
+The features I've included
+HC Projects — Project Module Features
+-Project Upload — submit projects through a 4-step wizard for project details, tech stack selection, and repository/demo links, with built-in URL validation to ensure only valid GitHub links are accepted.
+
+-Project Details— Each upload supports a title, description, project status (Ongoing/Completed), team member names added one by one, and media attachments including screenshots, demo images, or video clips.
+
+-Explore & Filter — Projects are displayed in a grid and can be filtered by category (Web, Mobile, AI/ML, DevOps, Design, Open Source) or by status
+
+-Search — A live search bar lets users find projects instantly by title, tech stack, team member name, or description keywords.
+
+-Sorting — The project grid can be sorted by Newest, Top Rated, Most Liked, or A–Z.
+
+-Likes & Ratings — Each project card displays its like count and star rating, and users can like projects directly from the card or the detail view.
+
+-Comments & Feedback — Users can open any project, leave a comment under their name, and like individual comments left by others
+
+
+
+
+
